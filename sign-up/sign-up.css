@@ -1,0 +1,11 @@
+html,
+body {
+    height: 100%;
+  }
+  
+.base-structure {
+  max-width: 330px;
+  padding: 1rem;
+  z-index: 2;
+}
+
